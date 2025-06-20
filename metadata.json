@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack AU",
+  "description": "A personal finance application for tracking income, expenses, and forecasting superannuation growth according to Australian regulations.",
+  "requestFramePermissions": []
+}
